@@ -2,7 +2,7 @@
 --at https://docs.rainmeter.net/snippets/read-write-file/
 
 savepath = "C:\\Users\\Pikachu\\Documents\\Rainmeter\\Skins\\MyCustomSkin\\@Resources\\State\\todo.txt"
-itemmeterpath = "C:\\Users\\Pikachu\\Documents\\Rainmeter\\Skins\\MyCustomSkin\\Todo List\\ItemMeters.inc"
+itemmeterpath = "C:\\Users\\Pikachu\\Documents\\Rainmeter\\Skins\\MyCustomSkin\\TodoList\\ItemMeters.inc"
 
 baseX = 10
 checkboxX = 395
